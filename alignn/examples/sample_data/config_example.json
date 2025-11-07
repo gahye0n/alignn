@@ -4,7 +4,7 @@
     "target": ["band_gap", "formation_energy_per_atom", "e_total"],
     "atom_features": "cgcnn",
     "neighbor_strategy": "k-nearest",
-    "id_tag": "jid",
+    "id_tag": null,
     "dtype": "float32",
     "random_seed": 123,
     "classification_threshold": null,
